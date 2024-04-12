@@ -1,12 +1,13 @@
 {
-  "posts": [
-    { "id": 1, "title": "testtt1" },
-    { "id": 2, "title": "testtt2" },
-    { "id": 3, "title": "testt3" }
+  "sake": [
+    { "id": 1, "title": "東洋美人 壱番纏 純米大吟醸" },
+    { "id": 2, "title": "真澄 純米吟醸 白妙SHIRO" },
+    { "id": 3, "title": "十四代 純米吟醸酒" }
   ],
   "comments": [
-    { "id": 1, "body": "some commentfsfdfdas1111", "postId": 1 },
-    { "id": 2, "body": "some comment idfanfduifiu222", "postId": 1 }
+    { "id": 1, "body": "洋梨のようなまろやかなフルーティさがある", "sakeId": 1 },
+    { "id": 2, "body": "洋梨のようなフルーティさやヨーグルトのようなまろやかな香りがあり、やさしい印象", "sakeId": 2 },
+    { "id": 3, "body": "非常に華やかな香りで、梨を思わせるフルーティさ", "sakeId": 3 }
   ],
   "profile": {
     "name": "wjtttuuu"
